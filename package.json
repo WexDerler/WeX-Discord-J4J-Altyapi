@@ -1,0 +1,28 @@
+{
+  "//1": "Bu Bot Baştan Sona WeX Tarafından Kodlanmıştır",
+  "//2": "Yardım İçin Beni Discord'tan Ekle",
+  "//3": "Discord: WeX#0001",
+  "name": "Discord J4J Bot",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "WeX.js",
+  "scripts": {
+    "start": "node WeX.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
