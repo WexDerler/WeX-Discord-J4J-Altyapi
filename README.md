@@ -9,4 +9,6 @@ Main Dosyasına gir.
 
 Ve bu kadar artık arkanıza yaslanıp sunucunuza gelen adamları izleyebilirsiniz.
 
+Ve bu kadar artık arkanıza yaslanıp sunucunuza gelen adamları izleyebilirsiniz.
+
 Projemi STAR'lamayı unutmayın.
